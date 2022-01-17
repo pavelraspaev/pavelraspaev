@@ -1,16 +1,17 @@
-### Hello there
+# Hello there
 
-<!--
-**pavelraspaev/pavelraspaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pavel Raspaev. I have 7 years expirience in IT as UX/UI designer (Mobile & Web) and Product Owner. Now starting my iOS developer career and who knows what next
 
-Here are some ideas to get you started:
+A few facts about me:
+- Can create a new product from scratch.
+- Can form an higly motivated agile team
+- Always try my best to deliver best user expirience and generate as more ideas as I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is a few badges above. Maybe helpful. It looks amazing.
+
+<p>
+  <a href="https://www.linkedin.com/in/pavelraspaev"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mobile%20Design-Expert-_.svg?color=blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swift-Enthusiast-_.svg?logo=swift&color=critical"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Product%20Management-Expensive-_.svg?color=ff69b4"></a>
+</p>
