@@ -1,8 +1,9 @@
 # Hello there
 
-I have 7 years expirience in IT as UX/UI designer (Mobile & Web) and Team Lead. Now starting my iOS developer career
+I like coding and want to embody my ideas for mobile apps and games.
+Also I can design a modern app and lead a team pretty well if needed.
 
-There is a few badges above. They look amazing.
+My background: 7+ years in IT as UX/UI designer, project manager, product owner, front-end developer and whatever
 
 <p>
   <a href="https://www.linkedin.com/in/pavelraspaev"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
