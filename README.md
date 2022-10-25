@@ -1,6 +1,11 @@
 # Hello there
 
-years in IT as UX/UI designer, project manager, product owner, front-end developer and iOS developer
+7+ years in IT as:
+4+ years designing web interfaces and mobile apps
+2+ years in project management
+1+ year in coding (Swift)
+
+Created mobile agile team in bank from scratch, launched unique projects, designed a lot of various interfaces and right now I am coding the shit
 
 <p>
   <a href="https://www.linkedin.com/in/pavelraspaev"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
